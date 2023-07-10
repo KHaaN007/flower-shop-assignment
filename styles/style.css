@@ -1,0 +1,34 @@
+/* Universal */
+* {
+    margin: 0px;
+}
+
+* {
+    padding: 0px;
+}
+
+.primary-color{
+    color: #E55473;
+}
+/* NavBar Section */
+
+.nav-container {
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.nav-title {
+    
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+    
+}
+
+.nav-menu {
+    display: flex;
+    gap: 20px;
+    font-size: 22px;
+}
